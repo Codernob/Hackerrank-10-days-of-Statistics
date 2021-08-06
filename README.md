@@ -6,3 +6,9 @@ the knowledge of **Probablity** and **Statistics** is very much important for un
 
 ![image](https://user-images.githubusercontent.com/55651740/128312245-176c0130-2921-4336-9551-1ba85915e187.png)
 
+I earned this badge upon completion of the challenge.
+
+https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+
+The challenge can be found on the link above.
+
